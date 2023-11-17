@@ -1,0 +1,194 @@
+{
+"products": [
+    {
+      "slug": "small-pillow-boxes",
+      "id": "small-pillow-boxes",
+      "productTitle": "Small Pillow Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing-01.png-gallery1"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All Styles Available"
+      },{
+        "name": "Dimensions",
+        "detail": "Custom Sizes Available"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "window-pillow-boxes",
+        "productTitle": "Window Pillow Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "handle-pillow-box-style",
+        "productTitle": "Handle Pillow Box Style",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600716610/Handle%20Pillow%20Box.jpg"
+      }]
+    },{
+      "slug": "kraft-cereal-boxes",
+      "id": "kraft-cereal-boxes",
+      "productTitle": "kraft-cereal-boxes",
+      "description": "",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-05.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1666202023Custom-Printed-Kraft-Cereal-Boxes-01.png-gallery1"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Seal End, Gable Style, Pop Display Style"
+      },{
+        "name": "Dimensions",
+        "detail": "Custom Sizes Available"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "cereal-boxes",
+        "productTitle": "Cereal Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1645126269Cereal-Boxes-Sire-Printing-01.png"
+      },{
+        "slug": "crepe-cone-holders",
+        "productTitle": "Crepe Cone Holders",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632941376Paperboard-Crepe-Cones-Sire-Printing-02.png"
+      }]
+    },{
+      "slug": "incense-boxes",
+      "id": "incense-boxes",
+      "productTitle": "Custom Incense Box Packaging",
+      "description": "",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%2004.png-gallery4"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Sleeves Packaging, Seal End, Sleeve & Tray Style"
+      },{
+        "name": "Dimensions",
+        "detail": "Custom Sizes Available"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "bath-bomb-boxes",
+        "productTitle": "Bath Bomb Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "seal-end-style-boxes",
+        "productTitle": "Seal End Style Boxes",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600723551/Seal%20End%20Boxes.jpg"
+      }]
+    },{
+      "slug": "kraft-window-boxes",
+      "id": "kraft-window-boxes",
+      "productTitle": "Kraft Boxes with Window",
+      "description": "",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1664588402Kraft%20Window%20Boxes%20SIre%20Printing%20001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1664588403Kraft%20Window%20Boxes%20Sire%20Printing%2002.png-gallery2"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+      },{
+        "name": "Dimensions",
+        "detail": "Custom Sizes Available"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "kraft-rigid-boxes",
+        "productTitle": "Kraft Rigid Boxes",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1601679264/Kraft%20Rigid%20Boxes.png"
+      },{
+        "slug": "custom-food-boxes",
+        "productTitle": "Custom Food Boxes",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612313141/custom%20food%20boxes.png"
+      }]
+    },{
+      "slug": "cardboard-box-with-handles",
+      "id": "cardboard-box-with-handles",
+      "productTitle": "Cardboard Box with Handles",
+      "description": "",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1665622319Mailer-Boxes-with-Handle-Sire%20Printing%2001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1665622320Mailer-Boxes-with-Handle-Sire%20Printing%2003.png-gallery2"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "One Piece Mailer Box  Style"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "small-mailer-boxes",
+        "productTitle": "Small Mailer Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "one-piece-mailer-boxes",
+        "productTitle": "One Piece Mailer Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1697921214-one-piece-mailer-boxes-sire-printing-4.avif"
+      }],
+       "relatedBlogs": [{
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
+      },{
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
+      }]
+    },{
+      "slug": "cbd-bath-bomb-boxes",
+      "id": "cbd-bath-bomb-boxes",
+      "productTitle": "Custom CBD Bath Bomb Boxes",
+      "description": "",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776386CBD-Bath-Bomb-Boxes-01.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776386CBD-Bath-Bomb-Boxes-04.png-gallery2"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Reverse Tuck, Pop Display Style, Seal End, Bakery Style."
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+        "relatedPortfolio": [
+    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697047665-bath-bomb-gift-boxes-sire-printing.avif",
+    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697934925-bath-bomb-boxes-with-heart-shape-window-sire-printing.avif"
+    ],
+      "relatedProducts": [{
+        "slug": "cannabis-perfume-boxes",
+        "productTitle": "Cannabis Perfume Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627778644Cannabis-Perfume-Boxes-SirePrinting-01.png"
+      },{
+        "slug": "medical-cannabis-boxes",
+        "productTitle": "Medical Cannabis Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627832313Medical-Cannabis-Boxes-SirePrinting%2001.png"
+      }],
+      "description": [{
+        "descriptionHeading": "Get Highly Creative Options for Your Custom CBD Bath Bomb Boxes",
+        "descriptionText": "Who would not want to make their Custom CBD Bath Bomb Boxes packed with extraordinary creativity?"
+      },{
+        "descriptionHeading": "Vast Range of Material Choice for Custom Printed Bath Bomb Boxes",
+        "descriptionText": "We often ignore material choice when ordering Custom Packaging Boxes"
+      }],
+      "relatedBlogs": [{
+        "slug": "",
+        "blogTitle": "Custom Bath Bomb Packaging Boxes Enhance Your Sales With Style",
+        "blogdate": "12 Mar",
+        "blogtext": "Bath bombs are concentrated foam baths made from a combination of wet and dry components such as essential...",
+        "bloglink": "Custom Retail Packaging",
+        "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1647044404Bath.png"
+      }]
+    }
+  ]
+}
