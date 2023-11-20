@@ -22,16 +22,11 @@
         "slug": "window-pillow-boxes",
         "productTitle": "Window Pillow Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
-      },{
-        "slug": "handle-pillow-box-style",
-        "productTitle": "Handle Pillow Box Style",
-        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600716610/Handle%20Pillow%20Box.jpg"
       }]
     },{
       "slug": "kraft-cereal-boxes",
       "id": "kraft-cereal-boxes",
       "productTitle": "kraft-cereal-boxes",
-      "description": "",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-05.png",
         "https://s3.amazonaws.com/sireprinting.com/products/1666202023Custom-Printed-Kraft-Cereal-Boxes-01.png-gallery1"
@@ -59,7 +54,6 @@
       "slug": "incense-boxes",
       "id": "incense-boxes",
       "productTitle": "Custom Incense Box Packaging",
-      "description": "",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png",
         "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%2004.png-gallery4"
@@ -78,16 +72,11 @@
         "slug": "bath-bomb-boxes",
         "productTitle": "Bath Bomb Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2001.png"
-      },{
-        "slug": "seal-end-style-boxes",
-        "productTitle": "Seal End Style Boxes",
-        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600723551/Seal%20End%20Boxes.jpg"
       }]
     },{
       "slug": "kraft-window-boxes",
       "id": "kraft-window-boxes",
       "productTitle": "Kraft Boxes with Window",
-      "description": "",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1664588402Kraft%20Window%20Boxes%20SIre%20Printing%20001.png",
         "https://s3.amazonaws.com/sireprinting.com/products/1664588403Kraft%20Window%20Boxes%20Sire%20Printing%2002.png-gallery2"
@@ -106,10 +95,6 @@
         "slug": "kraft-rigid-boxes",
         "productTitle": "Kraft Rigid Boxes",
         "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1601679264/Kraft%20Rigid%20Boxes.png"
-      },{
-        "slug": "custom-food-boxes",
-        "productTitle": "Custom Food Boxes",
-        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612313141/custom%20food%20boxes.png"
       }]
     },{
       "slug": "cardboard-box-with-handles",
@@ -135,15 +120,6 @@
         "slug": "one-piece-mailer-boxes",
         "productTitle": "One Piece Mailer Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1697921214-one-piece-mailer-boxes-sire-printing-4.avif"
-      }],
-       "relatedBlogs": [{
-        "slug": "",
-        "blogTitle": "",
-        "blogImage": ""
-      },{
-        "slug": "",
-        "blogTitle": "",
-        "blogImage": ""
       }]
     },{
       "slug": "cbd-bath-bomb-boxes",
@@ -182,6 +158,70 @@
         "blogtext": "Bath bombs are concentrated foam baths made from a combination of wet and dry components such as essential...",
         "bloglink": "Custom Retail Packaging",
         "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1647044404Bath.png"
+      }]
+    },{
+      "slug": "cardboard-box-with-handles",
+      "id": "cardboard-box-with-handles",
+      "productTitle": "Cardboard Box with Handles",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1665622319Mailer-Boxes-with-Handle-Sire%20Printing%2001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1665622320Mailer-Boxes-with-Handle-Sire%20Printing%2003.png-gallery2"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "One Piece Mailer Box  Style"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "small-mailer-boxes",
+        "productTitle": "Small Mailer Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "one-piece-mailer-boxes",
+        "productTitle": "One Piece Mailer Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1697921214-one-piece-mailer-boxes-sire-printing-4.avif"
+      }],
+       "relatedBlogs": [{
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
+      },{
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
+      }]
+    },{
+      "slug": "small-mailer-boxes",
+      "id": "small-mailer-boxes",
+      "productTitle": "Small Mailer Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "One Piece Mailer Box Style"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+        "relatedPortfolio": [
+    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697650949-mailer-boxes-with-diecut-inserts-sire-printing.avif",
+    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697651037-mailer-boxes-for-products-sire-printing.avif"
+    ],
+      "relatedProducts": [{
+        "slug": "one-piece-mailer-boxes",
+        "productTitle": "One Piece Mailer Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1697921214-one-piece-mailer-boxes-sire-printing-4.avif"
+      }],
+      "relatedBlogs": [{
+        "slug": "",
+        "blogTitle": "5 Best Options And Methods For Modern Mailer Boxes",
+        "blogdate": "02 Nov",
+        "blogtext": "In a world where e-commerce and online shopping have become the norm, businesses are constantly looking for ways...",
+        "bloglink": "Custom Packaging Boxes",
+        "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1698964813-5-best-options-and-methods-for-modern-mailer-boxes.avif"
       }]
     }
   ]
