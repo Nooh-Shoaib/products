@@ -89,9 +89,6 @@
       },{
         "name": "Dimensions",
         "detail": "Custom Sizes Available"
-      },{
-        "name": "Quantity",
-        "detail": "50"
       }],
       "relatedProducts": [{
         "slug": "kraft-rigid-boxes",
@@ -104,7 +101,6 @@
       "productTitle": "Cardboard Box with Handles",
       "description": "",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1665622319Mailer-Boxes-with-Handle-Sire%20Printing%2001.png",
         "https://s3.amazonaws.com/sireprinting.com/products/1665622320Mailer-Boxes-with-Handle-Sire%20Printing%2003.png-gallery2"
       ],
       "specifications": [{
@@ -155,7 +151,7 @@
        "description": [{
         "descriptionHeading": "Cannabis Perfume Boxes",
         "descriptionText": "https://s3.amazonaws.com/sireprinting.com/products/1627778644Cannabis-Perfume-Boxes-SirePrinting-01.png"
-      }
+      }],
       "relatedBlogs": [{
         "slug": "",
         "blogTitle": "Custom Bath Bomb Packaging Boxes Enhance Your Sales With Style",
