@@ -17,6 +17,9 @@
       },{
         "name": "Quantity",
         "detail": "50"
+      },{
+        "name": "Preferred Design File",
+        "detail": "You can send us your design files in any vector base format like AI, PDF, PSD, EPS, JPG or TIFF format."
       }],
       "relatedProducts": [{
         "slug": "window-pillow-boxes",
