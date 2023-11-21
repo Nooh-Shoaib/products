@@ -152,7 +152,10 @@
         "productTitle": "Medical Cannabis Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627832313Medical-Cannabis-Boxes-SirePrinting%2001.png"
       }],
-      "description": "Get Highly Creative Options for Your Custom CBD Bath Bomb Boxes",
+       "description": [{
+        "descriptionHeading": "Cannabis Perfume Boxes",
+        "descriptionText": "https://s3.amazonaws.com/sireprinting.com/products/1627778644Cannabis-Perfume-Boxes-SirePrinting-01.png"
+      }
       "relatedBlogs": [{
         "slug": "",
         "blogTitle": "Custom Bath Bomb Packaging Boxes Enhance Your Sales With Style",
