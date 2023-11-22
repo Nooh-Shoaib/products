@@ -1,32 +1,6 @@
 {
 "products": [
-    {
-      "slug": "small-pillow-boxes",
-      "id": "small-pillow-boxes",
-      "productTitle": "Small Pillow Boxes",
-      "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing-01.png-gallery1"
-      ],
-      "specifications": [{
-        "name": "Box Style",
-        "detail": "All Styles Available"
-      },{
-        "name": "Dimensions",
-        "detail": "Custom Sizes Available"
-      },{
-        "name": "Quantity",
-        "detail": "50"
-      },{
-        "name": "Preferred Design File",
-        "detail": "You can send us your design files in any vector base format like AI, PDF, PSD, EPS, JPG or TIFF format."
-      }],
-      "relatedProducts": [{
-        "slug": "window-pillow-boxes",
-        "productTitle": "Window Pillow Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
-      }]
-    },{
+   {
       "slug": "kraft-cereal-boxes",
       "id": "kraft-cereal-boxes",
       "productTitle": "kraft-cereal-boxes",
