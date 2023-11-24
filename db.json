@@ -160,30 +160,6 @@
         "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1647044404Bath.png"
       }]
     },{
-      "slug": "cardboard-box-with-handles",
-      "id": "cardboard-box-with-handles",
-      "productTitle": "Cardboard Box with Handles",
-      "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1665622319Mailer-Boxes-with-Handle-Sire%20Printing%2001.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1665622320Mailer-Boxes-with-Handle-Sire%20Printing%2003.png-gallery2"
-      ],
-      "specifications": [{
-        "name": "Box Style",
-        "detail": "One Piece Mailer Box  Style"
-      },{
-        "name": "Quantity",
-        "detail": "50"
-      }],
-      "relatedProducts": [{
-        "slug": "small-mailer-boxes",
-        "productTitle": "Small Mailer Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
-      },{
-        "slug": "one-piece-mailer-boxes",
-        "productTitle": "One Piece Mailer Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1697921214-one-piece-mailer-boxes-sire-printing-4.avif"
-      }]
-    },{
       "slug": "small-mailer-boxes",
       "id": "small-mailer-boxes",
       "productTitle": "Small Mailer Boxes",
