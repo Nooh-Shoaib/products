@@ -1,7 +1,6 @@
 {
 "products": [
     {
-        "pageSource": "db",
       "slug": "small-pillow-boxes",
       "id": "small-pillow-boxes",
       "productTitle": "Small Pillow Boxes",
@@ -28,7 +27,6 @@
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
       }]
     },{
-        "pageSource": "db",
       "slug": "kraft-cereal-boxes",
       "id": "kraft-cereal-boxes",
       "productTitle": "kraft-cereal-boxes",
